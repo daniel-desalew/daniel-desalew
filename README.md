@@ -1,7 +1,10 @@
-## Hi there 👋
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Daniel%20Desalew&fontSize=50&fontColor=60A5FA&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20Software%20Engineering%20Student&descAlignY=60&descSize=15&descColor=A5F3FC" width="100%"/>
+
+<br/>
+
+<img src="assets/typing-man.svg" alt="Developer typing on a desktop" width="70%"/>
 
 <br/>
 
